@@ -1,0 +1,7 @@
+Key Concepts of Machine learning:
+Data: The foundation of machine learning, consisting of examples and instances from which the model learns.
+Model: An abstraction or representation that a machine learning algorithm creates from data.
+Features: The individual measurable properties or characteristics of the data.
+Labels: The output or target variable that the model is trying to predict.
+Training: The process of feeding data to the machine learning algorithm to learn patterns.
+Testing: Evaluating the model's performance on a separate dataset to assess its accuracy and generalization.
